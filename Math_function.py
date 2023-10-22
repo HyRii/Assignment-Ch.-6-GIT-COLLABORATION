@@ -2,7 +2,7 @@
 def add(a, b):
     return a + b
 
-#(MULTIPLE & DIVISION)
+#MULTIPLE & DIVISION
 elif operator == "/":
         if data_2 == 0:
             print("Pembagian dengan nol tidak diizinkan.")

@@ -17,7 +17,7 @@ if __name__ == "__main__":
     print("Hello Main !")
     main()
 
-#(MULTIPLE & DIVISION)
+#MULTIPLE & DIVISION
 
 elif operator == "/":
         if data_2 == 0:
