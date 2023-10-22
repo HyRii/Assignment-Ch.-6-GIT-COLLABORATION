@@ -17,6 +17,8 @@ if __name__ == "__main__":
     print("Hello Main !")
     main()
 
+#(MULTIPLE & DIVISION)
+
 elif operator == "/":
         if data_2 == 0:
             print("Pembagian dengan nol tidak diizinkan.")
